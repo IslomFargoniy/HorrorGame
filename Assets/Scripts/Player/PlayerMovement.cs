@@ -40,9 +40,6 @@ public class PlayerMovement : MonoBehaviour
 
         audioSource.loop = false;
         audioSource.playOnAwake = false;
-
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
     }
 
     void Update()
