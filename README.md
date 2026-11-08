@@ -46,7 +46,7 @@ A first-person 3D horror game made with Unity. You wake up trapped in a dark, ab
 
 1. Clone the repository:
    ```
-   git clone git@github.com:IslamAbdurahman/HorrorGame.git
+   git clone git@github.com:IslomFargoniy/HorrorGame.git
    ```
 2. Open the project in **Unity 2022.3.62f3** (or a newer 2022.3 LTS version)
 3. Open the scene `Assets/LoafbrrAssets/MInesAndCaveSet/TestDemo.unity`
